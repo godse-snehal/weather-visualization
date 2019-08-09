@@ -23,18 +23,13 @@
     font-weight: bold;
     font-family: 'Times New Roman';
     margin-left: 65px;
+    background-color: #4EAAA5;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .navbar-nav  li a:hover {
   color: #1abc9c !important;
-}
-
-.bg-1 {
-  background-color: #4EAAA5;
-  /* padding-bottom: 10px;
-  padding-top: 10px;*/
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 .cmp-style {
